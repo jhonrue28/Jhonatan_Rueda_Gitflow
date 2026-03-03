@@ -9,6 +9,6 @@ if decision==1:
     print ("hola")
     print ("Que bruto")
 elif decision==2:
-    print ("Adiós")
+    print ("Eso es bueno, sigue así")
 else:
     print ("Opción no válida")
