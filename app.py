@@ -7,6 +7,7 @@ print ("¿En serio?¿No sabes multiplicar?🤡")
 decision=int(input("1.Si, 2.No"))
 if decision==1:
     print ("hola")
+    print ("Que bruto")
 elif decision==2:
     print ("Adiós")
 else:
